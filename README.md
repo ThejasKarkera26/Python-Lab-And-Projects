@@ -5,7 +5,7 @@ A collection of Python programs from my college coursework, covering Python fund
 ## Repository structure
 
 ```
-├──Python-Lab-And-Projects/
+├──Python-Data-Structures/
 │   ├── Lab_Programs/
 │   │   ├── Binary_search_tree.py
 │   │   ├── DoublyLinkedList_deletion.py
@@ -13,7 +13,7 @@ A collection of Python programs from my college coursework, covering Python fund
 │   │   ├── Evaluation_of_postfix.py
 │   │   ├── SLinkedList_Deletion.py
 │   │   ├── SLinkedList_Insertion.py
-│   │   ├── StackList.py
+│   │   ├── StackList.pY
 │   │   ├── Queue_operations.py
 │   │   ├── CircularLinkedList_insertion.py
 │   │   └── CircularLinkedList_deletion.py
