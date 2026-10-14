@@ -2,7 +2,7 @@
 rectangle, line arc, oval and text''' 
 from tkinter import * 
 # Create window 
-root = Tk() 
+root = TK()
 root.title("Canvas Design Example") 
 # Create canvas 
 canvas = Canvas(root, width=600, height=500, bg="skyblue") 
