@@ -4,8 +4,8 @@ A collection of Python programs from my college coursework, covering Python fund
 
 ## Repository structure
 
-```Python-Lab-And-Projects/
-├── Python-Data-Structures/
+```
+├──Python-Lab-And-Projects/
 │   ├── Lab_Programs/
 │   │   ├── Binary_search_tree.py
 │   │   ├── DoublyLinkedList_deletion.py
@@ -14,11 +14,13 @@ A collection of Python programs from my college coursework, covering Python fund
 │   │   ├── SLinkedList_Deletion.py
 │   │   ├── SLinkedList_Insertion.py
 │   │   ├── StackList.py
-|   |   ├── CircularLinkedList_insertion.py
-|   |   └── CircularLinkedList_deletion.py
+│   │   ├── Queue_operations.py
+│   │   ├── CircularLinkedList_insertion.py
+│   │   └── CircularLinkedList_deletion.py
 │   └── Projects/
 │       ├── Parking_Lot_Management.py
 │       └── Railway_Waiting_List.py
+│
 └── Python-Fundamentals/
     ├── Area-Perimeter.py
     ├── Area.py
@@ -31,4 +33,5 @@ A collection of Python programs from my college coursework, covering Python fund
     ├── SQL.py
     ├── Sequence-and-match.py
     └── Tuple.py
+
 ```
