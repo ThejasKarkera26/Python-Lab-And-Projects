@@ -94,9 +94,7 @@ class circularlist:
 
     # Display
     def display(self):
-        if self.head is None:
-            print("List is empty")
-            return
+        
 
         temp = self.head
 

@@ -30,13 +30,11 @@ def postorder(root):
 
 def preorder(root):
     if root:
+        
         print(root.key, end=" ")
         preorder(root.left)
         preorder(root.right)
       
-        
-
-
 root=None 
 
 values= [50,30,70,20,40,60,80]
@@ -44,10 +42,11 @@ values= [50,30,70,20,40,60,80]
 for value in values:
     root=insert(root,value)
 
-
 print("Inorder Traversal:")
 inorder(root)
+
 print("\nPostorder Traversal:")
 postorder(root)
+
 print("\nPreorder Traversal:")
 preorder(root)
